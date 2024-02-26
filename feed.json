@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ReetaWeb",
+    "description": "",
+    "home_page_url": "https://dennae.github.io/muutoxia",
+    "feed_url": "https://dennae.github.io/muutoxia/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Margareta Bechinsky"
+    },
+    "items": [
+        {
+            "id": "https://dennae.github.io/muutoxia/hello-world.html",
+            "url": "https://dennae.github.io/muutoxia/hello-world.html",
+            "title": "Hello World!",
+            "author": {
+                "name": "Margareta Bechinsky"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-26T02:17:58+02:00",
+            "date_modified": "2024-02-26T02:17:58+02:00"
+        }
+    ]
+}
