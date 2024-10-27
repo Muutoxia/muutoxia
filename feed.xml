@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Muutoxia</title>
-    <link href="https://dennae.github.io/muutoxia/feed.xml" rel="self" />
-    <link href="https://dennae.github.io/muutoxia" />
+    <link href="https://muutoxia.github.io/muutoxia/feed.xml" rel="self" />
+    <link href="https://muutoxia.github.io/muutoxia" />
     <updated>2024-10-27T18:39:43+02:00</updated>
     <author>
         <name>Margareta Bechinsky</name>
     </author>
-    <id>https://dennae.github.io/muutoxia</id>
+    <id>https://muutoxia.github.io/muutoxia</id>
 
     <entry>
         <title>Etusivu</title>
         <author>
             <name>Margareta Bechinsky</name>
         </author>
-        <link href="https://dennae.github.io/muutoxia/etusivu.html"/>
-        <id>https://dennae.github.io/muutoxia/etusivu.html</id>
+        <link href="https://muutoxia.github.io/muutoxia/etusivu.html"/>
+        <id>https://muutoxia.github.io/muutoxia/etusivu.html</id>
 
         <updated>2024-10-27T18:39:43+02:00</updated>
             <summary>
