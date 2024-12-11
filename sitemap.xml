@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://muutoxia.github.io/muutoxia/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://muutoxia.github.io/muutoxia/</loc>
+</url>
+<url>
+<loc>https://muutoxia.github.io/muutoxia/hello-world.html</loc>
+<lastmod>2024-12-11T14:07:52+02:00</lastmod>
+<image:image>
+<image:loc>https://muutoxia.github.io/muutoxia/media/posts/1/gallery/WhatsApp-Image-2024-09-17-at-12.39.14-1-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
