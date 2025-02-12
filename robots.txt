@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://muutoxia.github.io/muutoxia/sitemap.xml
+Sitemap: https://muutoxia.fi/sitemap.xml

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://muutoxia.github.io/muutoxia/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://muutoxia.fi/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://muutoxia.github.io/muutoxia/</loc>
+<loc>https://muutoxia.fi/</loc>
 </url>
 <url>
-<loc>https://muutoxia.github.io/muutoxia/hello-world.html</loc>
-<lastmod>2025-01-14T21:22:59+02:00</lastmod>
+<loc>https://muutoxia.fi/hello-world.html</loc>
+<lastmod>2025-01-27T20:48:05+02:00</lastmod>
 <image:image>
-<image:loc>https://muutoxia.github.io/muutoxia/media/posts/1/Kopio-Green-White-Minimalist-Aesthetic-Plant-and-Flower-Shop-Logo.png</image:loc>
+<image:loc>https://muutoxia.fi/media/posts/1/Kopio-Green-White-Minimalist-Aesthetic-Plant-and-Flower-Shop-Logo.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://muutoxia.github.io/muutoxia/media/posts/1/IMG_20231106_094457.jpeg</image:loc>
+<image:loc>https://muutoxia.fi/media/posts/1/IMG_20231106_094457.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
