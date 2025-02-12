@@ -3,7 +3,7 @@
     <title>Muutoxia</title>
     <link href="https://muutoxia.fi/feed.xml" rel="self" />
     <link href="https://muutoxia.fi" />
-    <updated>2025-01-27T20:48:05+02:00</updated>
+    <updated>2025-02-12T10:44:53+02:00</updated>
     <author>
         <name>Margareta Bechinsky</name>
     </author>
@@ -82,8 +82,8 @@
 <h3 id="yhteystiedot">Ota yhteyttä</h3>
 <p> </p>
 <p>Voit ottaa minuun yhteyttä jättämällä viestiä tai soittamalla </p>
-<p>📱: 045-1828563</p>
-<p>📧: muutoxia@outlook.com</p>
+<p>📱: <a href="tel:0451828563" target="_blank" rel="noopener noreferrer">045-1828563</a></p>
+<p>📧: <a href="mailto:muutoxia@outlook.com" target="_blank" rel="noopener noreferrer">muutoxia@outlook.com</a></p>
             ]]>
         </content>
     </entry>
